@@ -1,27 +1,28 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Code Reveiw
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./![AAAA](https://user-images.githubusercontent.com/83591312/148794068-dbf92573-806b-4498-a697-791d16c89f41.png)
+)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Semantics of HTML
+- HTML & CSS best practices
+- 
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](git@github.com:Have-Samuel/review1.git)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
+**Code Reveiew of  a previous code during Trails.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
