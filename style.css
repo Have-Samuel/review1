@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+}
+#header {
+  width: 100%;
+  margin: 10px 10px 10px 10px;
+  background: lightgreen;
+  border: thick solid black;
+  padding: 5px;
+}
+
+nav #search {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 200px;
+  width: 30%;
+}
+
+#youtube-logo {
+  display: inline-block;
+  max-height: 40px;
+}
+
+#voice {
+  display: inline-block;
+  vertical-align: top;
+  height: 40px;
+}
+
+#main {
+  background: white;
+  margin-top: 70px;
+}
+
+.archor ul {
+  background: #a59c9c;
+  width: 100%;
+  padding: 8px 16px;
+}
+
+.archor-ul__li {
+  display: inline-block;
+  margin: 0;
+  padding: 0 16px;
+  list-style: none;
+}
+
+.archor-ul__li a {
+  text-decoration: none;
+  color: #022702;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.archor-ul__li a:hover,
+.archor-ul__li a:active {
+  color: yellow;
+}
+
+.archor-ul__li a {
+  background: red;
+  color: blue;
+  padding: 8px 16px;
+  border-radius: 18px;
+}
+
+#watching_youtube {
+  background: magenta;
+  float: right;
+  width: 44%;
+  margin-top: 0;
+  
+}
+
+.watch {
+  max-width: 300px;
+  max-height: 300px;
+
+}
+
+#watching_youtube ul li {
+  list-style: none;
+}
