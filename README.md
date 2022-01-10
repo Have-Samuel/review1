@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./![AAAA](https://user-images.githubusercontent.com/83591312/148794068-dbf92573-806b-4498-a697-791d16c89f41.png)
+![screenshot](./![AAA.png)
 )
 
 Additional description about the project and its features.
