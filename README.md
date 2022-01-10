@@ -4,23 +4,27 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./AAAA.png)
+)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Semantics of HTML
+- HTML & CSS best practices
+- 
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](git@github.com:Have-Samuel/review1.git)
 
 
 ## Getting Started
 
+
+**Code Reveiew of  a previous code during Trails.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 **Revewing a previous code from the Admission Trails.**
 
 
